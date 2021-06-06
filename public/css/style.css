@@ -40,7 +40,11 @@ textarea {
 /* navbar styling */
 .navbar-brand:hover {
     letter-spacing: 0.2em;
+   
 }
+/* .navbar-brand {
+    background-color: lavenderblush;
+} */
 
 .navbar-nav {
     margin-left: auto;
