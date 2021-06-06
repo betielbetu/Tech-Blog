@@ -4,7 +4,7 @@
 
 /* style by element */
 body {
-    background-image: url("../images/bg-pattern.jpg");
+    background-image: url("../images/sparkle.jpeg");
     background-size: cover;
 }
 
@@ -12,11 +12,9 @@ p {
     color:#EAEAEA;
 }
 
-/* h1, h2, h3, h4, h5 {
-    border-bottom: white 1px solid;
-} */
+
 #home-blog-txt {
-    color: #bbbbbb;
+    color: #EAEAEA;
 }
 
 .bg-blogs {
@@ -24,7 +22,7 @@ p {
 }
 
 #signuplink {
-    color: #bbbbbb;
+    color: #EAEAEA;
 }
 
 #comment-name{
@@ -46,11 +44,14 @@ textarea {
 
 .navbar-nav {
     margin-left: auto;
+    /* background-color: #EAEAEA; */
 }
 
 /* footer styling */
 #footer-ref {
-    color: #6C757D;
+    color: #EAEAEA;
+    /* background-color: #EAEAEA; */
+    
 }
 
 footer {
@@ -59,4 +60,5 @@ footer {
     bottom: 0;
     left: 0;
     width: 100%;
+    /* background-color: goldenrod; */
 }
