@@ -33,11 +33,11 @@ npm start
 
 #### login page
 
-<img src="./public/images/login.png" width="1000" height="500">
+<img src="./public/images/login.png" width="1000" height="350">
 
 #### create a new blog post
 
-<img src="./public/images/create.png" width="1000" height="500">
+<img src="./public/images/create.png" width="1000" height="350">
 
 
 
