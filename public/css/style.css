@@ -1,0 +1,62 @@
+* {
+    font-family: 'Noto Serif', serif;
+}
+
+/* style by element */
+body {
+    background-image: url("../images/bg-pattern.jpg");
+    background-size: cover;
+}
+
+p {
+    color:#EAEAEA;
+}
+
+/* h1, h2, h3, h4, h5 {
+    border-bottom: white 1px solid;
+} */
+#home-blog-txt {
+    color: #bbbbbb;
+}
+
+.bg-blogs {
+    background-color:#EAEAEA;
+}
+
+#signuplink {
+    color: #bbbbbb;
+}
+
+#comment-name{
+    font-size: smaller;
+}
+
+input {
+    width: 100%;
+}
+
+textarea {
+    width: 100%;
+}
+
+/* navbar styling */
+.navbar-brand:hover {
+    letter-spacing: 0.2em;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+/* footer styling */
+#footer-ref {
+    color: #6C757D;
+}
+
+footer {
+    z-index: 1;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}

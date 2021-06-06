@@ -1,0 +1,11 @@
+<section>
+    {{#each this}}
+    <div class="row p-3">
+        <div class="card col-md-8 p-3 bg-secondary">
+            <h5 class="card-title font-italic text-white pt-2 text-right">{{this.text}}</h5>
+            <p class="card-subtitle pt-2 text-right" id="comment-name">posted by {{this.user.name}} on {{format_date
+                date_created}}</p>
+        </div>
+    </div>
+    {{/each}}
+</section>

@@ -1,0 +1,14 @@
+{{#each blogs as |blog| }}
+<div class="row">
+    <div class="col-md-8 p-4 bg-dark mb-4 blog rounded">
+        <h2>
+            <a class="text-white" href="/blogs/{{blog.id}}">{{blog.name}}</a>
+        </h2>
+
+        <p class="text-muted">posted by {{blog.user.name}} on {{format_date blog.date_created}}</p>
+        <p id="home-blog-txt">
+            {{blog.description}}
+        </p>
+    </div>
+</div>
+{{/each}}
