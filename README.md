@@ -3,7 +3,7 @@
 ## Description
 
 
-A blog site developers can publish their blog posts and comment on other developers’ posts as well. This app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+A blog site where developers can publish their blog posts and comment on other developers’ posts as well. This app follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 ## User Story
 
@@ -33,11 +33,11 @@ npm start
 
 #### login page
 
-<img src="./public/images/login.png" width="1000" height="500">
+<img src="./public/images/login.png" width="1000" height="350">
 
 #### create a new blog post
 
-<img src="./public/images/create.png" width="1000" height="500">
+<img src="./public/images/create.png" width="1000" height="350">
 
 
 
@@ -52,11 +52,10 @@ npm start
 
 ## Deployment
 
-You are required to submit BOTH of the following for review:
 
 * The URL of the functional, deployed application.
 
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
+* The URL of the GitHub repository: https://github.com/betielbetu/Tech-Blog
 
 ---
 © 2021 Betiel Mengesha. All Rights Reserved.
