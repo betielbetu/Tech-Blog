@@ -1,6 +1,6 @@
-const User = require('./User');
-const Blog = require('./Blog');
-const Comment = require('./Comment');
+const User = require('../models/User');
+const Blog = require('../models/Blog');
+const Comment = require('../models/Comment');
 
 // User and Blog associations - users have many blogs - a blog belongs to a user
 User.hasMany(Blog, {
