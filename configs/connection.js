@@ -26,8 +26,6 @@ if (process.env.JAWSDB_URL) {
   );
 }
 
-console.log(db);
-
 module.exports = db;
 
 //mysql://b201dbd916d8a4:f4020255@us-cdbr-east-04.cleardb.com/heroku_6601dea04441daf?reconnect=true
