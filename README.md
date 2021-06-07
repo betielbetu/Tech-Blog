@@ -53,7 +53,7 @@ npm start
 ## Deployment
 
 
-* The URL of the functional, deployed application.
+* The URL of the functiona deployed application: https://powerful-springs-55895.herokuapp.com/
 
 * The URL of the GitHub repository: https://github.com/betielbetu/Tech-Blog
 
