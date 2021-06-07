@@ -1,5 +1,5 @@
 const User = require('./user');
-const Blog = require('./blog');
+const Blog = require('./vlog');
 const Comment = require('./comment');
 
 // User and Blog associations - users have many blogs - a blog belongs to a user
